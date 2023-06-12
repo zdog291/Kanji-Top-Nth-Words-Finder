@@ -1,0 +1,12 @@
+{
+"card_type": "J2E", 
+"decending": 0, 
+"extra_search_param": "", 
+"kanji_deck_field": "Kanji", 
+"kanji_deck_name": "DLI-\u65e5\u672c\u8a9e::Non-listening::All in One Kanji", 
+"sort_field": "Freq_Subs+SUW", 
+"sort_field2": "Freq_BCCWJ_SUW", 
+"sort_field3": "oFreq_BCCWJ_LUW", 
+"word_field": "Expression", 
+"word_limit": 1
+}
